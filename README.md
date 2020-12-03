@@ -1,4 +1,4 @@
-## adventofcode2019
+## adventofcode2020
 
 | Day | Solution | Part One | Part Two | 
 |---|:---:|:---:|:---:|
